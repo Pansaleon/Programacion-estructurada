@@ -64,7 +64,7 @@ do{
 	
 	printf("Desea añadir otro alumno? \n1 - Si\n0 - No\n");//capturando condicional
 	scanf ("%d", &salir);
-	fflush(stdin);
+	//(esta actualizado :D)
 
 	
 
